@@ -1,0 +1,46 @@
+/* Header */
+#header-nav{
+background-color: #C0C0C0;
+border-radius: 0;
+border:0;
+}
+
+.navbar-brand h1{
+color:black;
+margin-top: 0;
+margin-bottom: 0;
+text-shadow: 1px 1px 1px #222;
+margin-left:0;
+border: 2px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus ,.navbar-brand a{
+	text-decoration: none;
+}
+
+.nav-item a{
+	text-decoration: none;
+	color: black;
+	
+	
+}
+
+/*#nav-list{
+	text-align: center;
+
+	
+}*/
+
+#menu_head{
+	text-align: center;
+	font-size: 2em;
+}
+
+.row{
+	background-color: #C0C0C0;
+	margin-top: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 800px;
+
+}
